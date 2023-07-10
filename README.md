@@ -3,5 +3,6 @@
 
 ![Pacman2](https://github.com/jordoswan/pacManFun/assets/114445244/8841faf6-b273-4579-a89a-582e70a775db)
 
-Using the four different images, I was able to program pacman to move from right to left accross the screen, turn him around once he hit a specified boundry, and then move him back from left to right. I was also able to program him to go back and forth across the screen non stop.
-Open the file containing the code you want to run. This can be done through the GitHub website or by downloading the file to your computer. Then, run the code.
+### Using the four different images, I was able to program pacman to move from right to left accross the screen, turn him around once he hit a specified boundry, and then move him back from left to right. I was also able to program him to go back and forth across the screen non stop.
+
+### Open the file containing the code you want to run. This can be done through the GitHub website or by downloading the file to your computer. You can also fork the whole repository to Visual studio code.
